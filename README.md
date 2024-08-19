@@ -15,10 +15,14 @@ More games are planned to be added in the future. If a game is not working let m
 
 # [8ball](https://lilfireyo.github.io/8ball/)
 
-# [DOOM](https://raz0red.github.io/webprboom/)
-
-NOT MY GAME, IF IT GETS BLOCKED I CAN'T RECOVER
-
 # [2048 FLAPPY BIRD](https://lilfireyo.github.io/Flappy-2048/)
+
+# [Space Invaders](https://lilfireyo.github.io/SpaceInvaders/)
+
+THESE ARE NOT MY GAMES. IF THEY ARE BLOCKED I CANNOT GET THEM BACK!!!
+
+# [Angry Birds](https://lrusso.github.io/AngryBirds/AngryBirds.htm)
+
+# [DOOM](https://raz0red.github.io/webprboom/)
 
 
